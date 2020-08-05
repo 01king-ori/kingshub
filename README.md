@@ -1,6 +1,6 @@
 ##Author
-Vincent Kingori Mwangi
-##Description
+Vincent Kingori Mwangi.
+###Description
 Picturesque is a Django based personal gallery. Noteable features of the app include:
 
 Admin portal: Here, the app owner is required to login in by providing necessary credentials. Upon succesful login, they can then proceed to upload, update or delete an image. They can also create, delete and edit image loactions and categories.
